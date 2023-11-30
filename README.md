@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Archer201977
-- 👀 I’m interested in Web Development Programs
-- 🌱 I’m currently learning in PHP and Javascript
+- 👀  Developer in: Wordpress / Wild Appricot & Shopify
+- 🌱 I know PHP and Javascript but not Kungfu :P :P 
 - 💞️ I’m looking to collaborate on fellow developers and professionals
 - 📫 How to reach me by email
 
