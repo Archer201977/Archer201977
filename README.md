@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Archer201977
+- 👋 I’m @Archer201977
 - 👀  Developer in: Wordpress / Wild Appricot & Shopify
 - 🌱 I know PHP and Javascript but not Kungfu :P :P 
 - 💞️ I’m looking to collaborate on fellow developers and professionals
